@@ -7,12 +7,4 @@ A fully responsive and beautiful website for an on trend full-service salon.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, APIs
-
-## Optimizations
-
-In the future I want to add many more options including images captured by the Mars Rover. I also want to go back and clean-up my client-side JavaScript after learning much more.
-
-## Lessons Learned:
-
-The biggest lesson learned here was not all APIs are created equal. A lot of their endpoints go to no where or are no longer supported. It takes time to go through all the data and find what is relevent to the project.
+**Tech used:** HTML, CSS, JavaScript
