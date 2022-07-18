@@ -1,21 +1,18 @@
-Sunset Styles
-A fully responsive and beautiful website for an on trend-full service salon
+# Sunset Styles # 
+A fully responsive and beautiful webstie for an on trend full-service salon.
 
-https://sunsetstyles.netlify.app/
+**Link to project:** https://cincinnatistargazers.netlify.app/
 
-![alt tag](https://github.com/AdamRobinsonSE/portfolio/blob/main/images/readme-screenshot.PNG)
+![alt tag](https://github.com/AdamRobinsonSE/Cincinnati-Star-Gazers/blob/main/img/screenshot.PNG)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
-
-My learning was focused on makng a simple, clean, and responsive site.
+**Tech used:** HTML, CSS, JavaScript, APIs
 
 ## Optimizations
 
-When I improve this project I want to add gifs as the projects opposed to static images
+In the future I want to take advantage of sprites for faster loading.
 
 ## Lessons Learned:
 
-The biggest lesson I learned is how awesome font awesome is. I wondered for a long time (too long!) how to get those icons for linkedin, github, etc. A simple google search and I stumbled upon it!
-
+The biggest lesson learned here was not all APIs are created equal. A lot of their endpoints go to no where or are no longer supported. It takes time to go through all the data and find what is relevent to the project.
