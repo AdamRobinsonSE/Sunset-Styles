@@ -1,7 +1,7 @@
 # Sunset Styles # 
 A fully responsive and beautiful webstie for an on trend full-service salon.
 
-**Link to project:** https://cincinnatistargazers.netlify.app/
+**Link to project:** https://sunsetstyles.netlify.app/
 
 ![alt tag](https://github.com/AdamRobinsonSE/Sunset-Styles/blob/main/images/readme-screenshot.PNG)
 
