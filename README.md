@@ -15,4 +15,4 @@ In the future I want to take advantage of sprites for faster loading.
 
 ## Lessons Learned:
 
-The biggest lesson learned here was not all APIs are created equal. A lot of their endpoints go to no where or are no longer supported. It takes time to go through all the data and find what is relevent to the project.
+A reminder to manage frustrations. A silly mistake of not using the right filepath in CSS lead to a several hour headache of why I couldn't get an image to load.
