@@ -3,7 +3,7 @@ A fully responsive and beautiful webstie for an on trend full-service salon.
 
 **Link to project:** https://cincinnatistargazers.netlify.app/
 
-![alt tag](https://github.com/AdamRobinsonSE/Cincinnati-Star-Gazers/blob/main/img/screenshot.PNG)
+![alt tag](https://github.com/AdamRobinsonSE/Sunset-Styles/blob/main/images/readme-screenshot.PNG)
 
 ## How It's Made:
 
