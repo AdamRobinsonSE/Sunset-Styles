@@ -7,7 +7,7 @@ A fully responsive and beautiful webstie for an on trend full-service salon.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, APIs
+**Tech used:** HTML, CSS, JavaScript
 
 ## Optimizations
 
