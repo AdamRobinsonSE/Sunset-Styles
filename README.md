@@ -1,15 +1,13 @@
 # Sunset Styles # 
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+A fully responsive and beautiful website for an on trend full-service salon.
 
-**Link to project:** https://cincinnatistargazers.netlify.app/
+**Link to project:** https://sunsetstyles.netlify.app/
 
 ![alt tag](https://github.com/AdamRobinsonSE/Cincinnati-Star-Gazers/blob/main/img/screenshot.PNG)
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, APIs
-
-A website built using NASA's APIs. You can select any date to see the media of the day, whether it be a video or image. Along with the description of what you're seeing.
 
 ## Optimizations
 
